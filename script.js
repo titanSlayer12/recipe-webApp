@@ -217,3 +217,6 @@ searchBtn.addEventListener("click", async () => {
 popupCloseBtn.addEventListener("click", () => {
     mealPopup.classList.add("hidden");
 });
+
+
+////////////// end/////////////////////////////////////////
